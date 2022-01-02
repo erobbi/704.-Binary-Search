@@ -37,5 +37,4 @@ const helper = (node, list, string) => {
     //     let strL = string + "->" + nodeL.val;
     //     helper(nodeL, list, strL)
     // }
-
 }
